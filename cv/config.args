@@ -1,0 +1,4 @@
+--suite login
+--outputdir results
+--report report.html
+--log log.html
